@@ -1,0 +1,10 @@
+C:\Users\mahmo\Digital_Clock\Digital_Clock\bin\Debug\Digital_Clock.exe.config
+C:\Users\mahmo\Digital_Clock\Digital_Clock\bin\Debug\Digital_Clock.exe
+C:\Users\mahmo\Digital_Clock\Digital_Clock\bin\Debug\Digital_Clock.pdb
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.AssemblyReference.cache
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.GenerateResource.cache
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.exe
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.pdb
