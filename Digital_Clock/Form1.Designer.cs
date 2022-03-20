@@ -2,7 +2,7 @@
 
 namespace Digital_Clock
 {
-    partial class Form1
+    partial class DigitalClock
     {
         /// <summary>
         /// Required designer variable.

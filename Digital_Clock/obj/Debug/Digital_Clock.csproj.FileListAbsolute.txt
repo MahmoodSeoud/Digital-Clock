@@ -8,3 +8,4 @@ C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.Genera
 C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.CoreCompileInputs.cache
 C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.exe
 C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.pdb
+C:\Users\mahmo\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.DigitalClock.resources
